@@ -1,0 +1,115 @@
+http://www.javaalmanac.com - The online counterpart of the Java Developer's Almanac - highly recommended for quick code snippets, and if you like the site, buy the book.
+
+http://www.onjava.com - O'Reilly's Java website. New articles weekly.
+
+http://java.sun.com - The official Java developer website - new articles posted weekly.
+
+http://www.developer.com/java - Java articles hosted by Gamelan.com
+
+http://www.java.net - The Java community website hosted by Sun Microsystems.
+
+http://www.builder.com - Cnet's Builder.com website - All tech articles, some Java-centric.
+
+http://www.ibm.com/developerworks/java - IBM's Developerworks; the Java section.
+
+http://www.javaworld.com - One of the originals. Weekly updates of Java articles.
+
+http://www.devx.com/java - Java articles hosted at DevX.
+
+http://www.fawcette.com/javapro - The JavaPro online magazine website.
+
+http://www.sys-con.com/java - The Java Developers Journal online magazine website.
+
+http://www.javadesktop.org - The desktop Java community hosted at Java.net.
+
+http://www.theserverside.com - Often considered the resource for all discussion server-side Java specific.
+
+http://www.jars.com - The Java review service. Covers frameworks and applications.
+
+http://www.jguru.com - A great source for Q&A style interaction in the community.
+
+http://www.javaranch.com
+
+http://www.ibiblio.org/javafaq/javafaq.html - The comp.lang.java FAQ - questions asked, answered, and categorized from the comp.lang.java newsgroup.
+
+http://java.sun.com/docs/books/tutorial/ - The Official Java tutorial from Sun - very useful for almost any feature set.
+
+http://www.javablogs.com - Blog aggregator for the most active Java-based blogs throughout the internet.
+
+http://java.about.com/ - Java news and articles from About.com
+
+Some more added to the list..
+
+http://www.javaspecialists.co.za/ The Java Specialist Newsletter.
+
+http://www.eclipse.org/ Eclipse main site.
+
+http://www.javazoid.com/
+
+http://www.esus.com/ Java Tips and Tricks
+
+
+best open source java projects site
+
+http://www.java-source.net/
+
+which class in which jar?
+
+http://www.jarhoo.com/
+
+some more cool sites
+
+http://www.thauvin.net/linkblog/
+
+http://www.clientjava.com/blog/
+
+http://javarss.com/
+
+http://www.javaskyline.com/ Dedicated to Java.
+http://semanticdb.blogspot.com
+For testing your java code /Fragments /JSP
+
+http://zamples.com/JspExplorer/index.jsp
+Some more sites which I think can add value to your Java Knowledge
+
+http://www.beginner-java-tutorial.com
+
+http://www.java-swing-tutorial.com
+
+http://www.jdbc-tutorial.com
+
+http://www.beginner-java-tutorial.com
+
+www.intelligentedu.com(for free it related e-books download)
+
+www.precise.com
+
+www.coolinterviews.com
+
+www.java2s.com
+
+www.virtusa.com
+
+www.laliluna.de
+
+www.roseindia.net
+
+www.exampledepot.com
+
+www.theserverside.com
+
+www.techtarget.com
+
+www.java-tips.org
+
+www.artima.com
+
+www.javafaq.nu
+
+www.javaworld.com
+
+www.pdfhm.com
+
+www.raphidshare.com
+
+www.buzzword.com 
